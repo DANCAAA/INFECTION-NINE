@@ -8,7 +8,7 @@ Felipe Bedoya ,
 Juand Diego Mozo , 
 Jose Daniel Castillo
 
-Link al ejecutable: 
+Link al ejecutable: https://drive.google.com/file/d/15SqmvcQAa2ikCMNuN4Jb7KMKgXUrBIAp/view?usp=sharing
 
 Assets usados en el juegos
 originales , diseñados por Juan Diego Mozo
