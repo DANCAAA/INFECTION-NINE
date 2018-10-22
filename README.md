@@ -5,7 +5,7 @@ Entrega Taller 2 Scripting
 Miembros del equipo 
 
 Felipe Bedoya ,
-Juand Diego Mozo , 
+Juan Diego Mozo , 
 Jose Daniel Castillo
 
 Link al ejecutable: https://drive.google.com/drive/folders/1AgomGMDHnX18rbcHQfHXEpcNTKw4MfA4?usp=sharing
