@@ -1,6 +1,6 @@
 # INFECTION-NINE
 
-Entrega Taller 2 
+Entrega Taller 2 Scripting
 
 Miembros del equipo 
 
