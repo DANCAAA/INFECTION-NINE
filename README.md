@@ -2,8 +2,10 @@
 
 Entrega Taller 2 
 
-Felipe Bedoya
-Juand Diego Mozo
+Miembros del equipo 
+
+Felipe Bedoya ,
+Juand Diego Mozo , 
 Jose Daniel Castillo
 
 Link al ejecutable: 
