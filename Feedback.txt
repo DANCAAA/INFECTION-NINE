@@ -1,0 +1,3 @@
+El único problema es que no pude probar el ejecutable debidamente. Solo subieron el .exe y no la carpeta (projectName)_data, donde hay unos archivos necesarios para la ejecución correcta.
+
+Nota: 4.5
